@@ -1,0 +1,22 @@
+{
+  "name": "Octus Bridge",
+  "slug": "octus-bridge",
+  "date": "2021-04-15",
+  "tags": [
+    "infrastructure",
+	"bridge",
+	"defi"
+  ],
+  "status": "live",
+  "highlight": "The truly decentralized bridge for fast cross-chain transfers of tokens and data between Avalanche and popular blockchains.",
+  "logo": "/img/octus-bridge.svg",
+  "website": "https://octusbridge.io",
+  "twitter": "https://twitter.com/OctusBridge",
+  "telegram": "https://t.me/OctusBridge",
+  "github": "https://github.com/broxus/octusbridge-contracts",
+  "discord": "https://discord.gg/83kCW8SPA4",
+  "summary": "The Octus Bridge lets you build cross-chain dApps to get the most out of Avalanche and other popular networks. Its decentralized architecture offers maximum security and scalability for users and developers while simultaneously remaining simple and convenient. Transfer any ERC20, SPL or TIP3 tokens without hassle!",
+  "docs": "https://docs.octusbridge.io/",
+  "cmc": "https://coinmarketcap.com/currencies/octus-bridge/",
+  "token": "BRIDGE"
+}
